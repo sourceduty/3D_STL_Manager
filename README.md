@@ -14,9 +14,11 @@ When STL files are imported, the program reads various metadata attributes using
 
 One of the standout features of this program is the ability to add custom notes to each STL record. This feature allows users to annotate their 3D models with additional information, which can be useful for project management, collaboration, or personal reference. The program's export functionality ensures that all this detailed data can be easily saved and shared, making it a versatile tool for anyone working with 3D models.
 
-#### 3D Model STL File Database Manager V1.0 Topology Diagram
+<br>
 
 ```
+3D Model STL File Database Manager V1.0 Topology Diagram
+
 Main Application (Tkinter)
 |
 +-- Database Setup (SQLite Initialization)
